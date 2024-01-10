@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for Rohit, Pune, chandrapur, ansible MH. Learning Classes</h1>
+    <h1>New user Register for Learning Classes</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
